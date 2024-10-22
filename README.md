@@ -48,4 +48,4 @@ msg['To'] = '********@qq.com'
 ```python
 textfile = 'email.html'
 ```
-
+# 一切准备就绪，运行main.py
